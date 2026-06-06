@@ -1,15 +1,10 @@
-# Crypto Price Alert Bot
-
+#Crypto Price Alert Bot
 Telegram bot for price alerts.
-
-## Features
-
+##Features
 - Price alerts
 - Volume alerts
 - Whale transaction alerts
 - Multi-exchange support
-
-## Run
-
+##Run
 ```bash
 python bot.py
