@@ -7,4 +7,3 @@ Telegram bot for price alerts.
 - Multi-exchange support
 ##Run
 ```bash
-python bot.py
