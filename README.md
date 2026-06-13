@@ -6,5 +6,4 @@ Telegram bot for price alerts.
 - Whale transaction alerts
 - Multi-exchange support
 ##Run
-
 ```bash
