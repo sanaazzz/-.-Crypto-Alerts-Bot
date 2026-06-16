@@ -1,4 +1,3 @@
-
 #Crypto Price Alert Bot
 Telegram bot for price alerts.
 ##Features
