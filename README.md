@@ -4,4 +4,4 @@ Telegram bot for price alerts.
 - Price alerts
 - Volume alerts
 - Whale transaction alerts
-- Multi-exchange suppor
+- Multi-exchange supp
