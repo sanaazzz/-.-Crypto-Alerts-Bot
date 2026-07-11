@@ -3,5 +3,5 @@ Telegram bot for price alerts.
 ##Features
 - Price alerts
 - Volume alerts
-- Whale transaction alerts
+- Whale  alerts
 - Multi-exchange supp
